@@ -50,7 +50,11 @@ def verify_fb_token(token_sent):
 def get_message():
     sample_responses = ["You are astonishing!", "Smile You beauty :*)", "Hugs and kisses cutie <3",
                         "I'm so happy to be with You", "Buziaki Dzióbku :*", "Uwielbiam Cię księżniczko",
-                        "Pięknie dziś wyglądasz", "Miłego dnia"]
+                        "Pięknie dziś wyglądasz", "Miłego dnia", 'https://www.youtube.com/watch?v=E4agkiTNA0M',
+                        'https://www.youtube.com/watch?v=tHKbNEeBdtM', 'https://www.youtube.com/watch?v=FA11ir1Horg',
+                        'https://www.youtube.com/watch?v=XqZsoesa55w', 'https://www.youtube.com/watch?v=seCaY4Gzj5k',
+                        'https://www.youtube.com/watch?v=Jpb7J_PcV3k', 'Ciii tylko nikomu nie mów... SZALEJĘ ZA TOBĄ <3',
+                        'https://www.youtube.com/watch?v=9d8SzG4FPyM', 'Zadzwoń do niego, przecież wiem, że o nim myślisz... : *)']
     # return selected item to the user
     return random.choice(sample_responses)
 
