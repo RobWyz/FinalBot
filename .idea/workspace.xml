@@ -20,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1aTmXp1IIwK9ErCuorqs0ZpZvsb" />
   <component name="ProjectViewState">
@@ -53,13 +54,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1586853073971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586853073971" />
     <state x="739" y="294" key="FileChooserDialogImpl" timestamp="1586768023041">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="739" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586768023041" />
+    <state x="672" y="256" key="MultipleFileMergeDialog" timestamp="1586853098711">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="672" y="256" key="MultipleFileMergeDialog/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586853098711" />
     <state x="461" y="182" key="SettingsEditor" timestamp="1586768079755">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586768079755" />
+    <state x="769" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586853089169">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586853089169" />
   </component>
 </project>
